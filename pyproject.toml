@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "my-heart-will-go-on"
+name = "Titanic survival prediction"
 version = "0.1.0"
-description = "Near. Far. Wherever I am."
-authors = ["Dan Moore <dmoore@pillartechnology.com>"]
+description = "Predict who will survive based on various factors"
+authors = ["Ovi Sofariu <ovi@sofariu.com>"]
 license = "BSD-3-Clause"
 
 [tool.poetry.dependencies]
